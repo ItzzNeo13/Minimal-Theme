@@ -1,0 +1,38 @@
+{
+    "name": "minimal-theme",
+    "displayName": "Minimal theme",
+    "description": "A simple Visual Studio Code theme based on Minimal color pallete and with highlighted brackets.",
+    "icon": "images/icon.png",
+    "publisher": "ItzzNeo1305",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "homepage": "https://github.com/ItzzNeo13/Minimal-Theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ItzzNeo13/Minimal-Theme"},
+    "keywords": [
+        "theme",
+        "dark theme",
+        "minimal theme",
+        "minimal",
+        "visual studio code",
+        "vscode",
+        "vscode theme",
+        "vscode dark theme"
+    ],
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimal Theme-color-theme.json"
+            }
+        ]
+    }
+}
