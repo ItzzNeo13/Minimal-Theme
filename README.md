@@ -5,6 +5,7 @@ This is a minimal theme for VS Code.
 ### Preview - 
 
 ![preview](./images/preview.png)
+![preview2](./images/preview2.png)
 
 
 #### Features -
