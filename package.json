@@ -1,7 +1,7 @@
 {
     "name": "minimal-theme",
-    "displayName": "Minimal theme",
-    "description": "A simple Visual Studio Code theme based on Minimal color pallete and with highlighted brackets.",
+    "displayName": "Minimal Theme",
+    "description": "A simple Visual Studio Code theme based on Minimal color pallete for syntax and highlighted color brackets.",
     "icon": "images/icon.png",
     "publisher": "ItzzNeo1305",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -19,7 +19,7 @@
         "vscode theme",
         "vscode dark theme"
     ],
-    "version": "0.0.3",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.66.0"
     },
