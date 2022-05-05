@@ -21,3 +21,7 @@ Last Update - v1.0.0 on 5th May 2022
 ### [1.0.0]
 
 - Stable release.
+
+### [1.0.1]
+
+- Added new preview images to README
