@@ -28,4 +28,4 @@ Last Update - v1.0.2 on 6th May 2022
 
 ### [1.0.2]
 
-- Upadted README.md
+- Updated README.md
