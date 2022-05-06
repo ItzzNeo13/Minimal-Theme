@@ -2,7 +2,7 @@
 
 All notable changes to the "minimal-theme" extension will be documented in this file.
 
-Last Update - v1.0.0 on 5th May 2022
+Last Update - v1.0.2 on 6th May 2022
 
 #
 
@@ -25,3 +25,7 @@ Last Update - v1.0.0 on 5th May 2022
 ### [1.0.1]
 
 - Added new preview images to README
+
+### [1.0.2]
+
+- Upadted README.md
