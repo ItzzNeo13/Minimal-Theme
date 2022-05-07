@@ -74,7 +74,11 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 
 -----
 
-##### NOTE - Some text in Markdown and .txt files have white text colors and is not any kind of improper syntax highlighting
+##### NOTE - Some text in Markdown and .txt files have white text colors and is not any kind of improper syntax highlighting. 
+
+----
+
+For more info make sure to check the Repo Wiki [here](https://github.com/ItzzNeo13/Minimal-Theme/wiki)
 
 -----
 
