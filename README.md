@@ -80,10 +80,12 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 
 If you face any problem while using this theme, make sure to let me know by creating a PR or sending a mail on devneo13@gmail.com
 
+Make sure to rate the theme in marketplace, it motives me to work more on it :)
+
 Thanks for using my theme and have a great time ahead :D 
 
-Regards,
-ItzzNeo13
+__Regards,
+ItzzNeo13__
 
 ----
 <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
