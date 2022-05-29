@@ -86,14 +86,15 @@ For more info make sure to check the Repo Wiki [here](https://github.com/ItzzNeo
 
 -----
 
-If you face any problem while using this theme, make sure to let me know by creating a PR or sending a mail on devneo13@gmail.com
+If you face any problem while using this theme, feel free to let me know by creating a PR or sending a mail on devneo13@gmail.com
 
-Make sure to rate the theme in marketplace, it motives me to work more on it :)
+Make sure to rate the theme in marketplace & star this repo here, it motives me to work more on it :)
 
 Thanks for using my theme and have a great time ahead :D 
 
 __Regards,
-ItzzNeo13__
+ItzzNeo13,
+Theme Designer__
 
 ----
 <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
