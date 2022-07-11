@@ -92,9 +92,9 @@ Make sure to rate the theme in marketplace & star this repo here, it motives me 
 
 Thanks for using my theme and have a great time ahead :D 
 
-__Regards,
+**Regards,
 ItzzNeo13,
-Theme Designer__
+Theme Designer**
 
 ----
 <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
