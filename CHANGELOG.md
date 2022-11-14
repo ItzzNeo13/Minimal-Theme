@@ -2,30 +2,16 @@
 
 All notable changes to the "minimal-theme" extension will be documented in this file.
 
-Last Update - v1.0.2 on 6th May 2022
+Last Update - v1.0.2 on 5th May 2022
 
-#
+# [1.0.2]
 
-### [0.0.1]
+- Added content to README.md file
 
-- Initial Unstable release.
+# [1.0.3]
 
-### [0.0.2]
+- Color Update.
 
-- Minor fixes in syntax colors.
+# [1.0.4]
 
-### [0.0.3]
-
-- Updates in README file and Theme icon.
-
-### [1.0.0]
-
-- Stable release.
-
-### [1.0.1]
-
-- Added new preview images to README
-
-### [1.0.2]
-
-- Updated README.md
+- Background color, icons and Menu color changes.
