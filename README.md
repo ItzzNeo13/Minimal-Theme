@@ -7,7 +7,6 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 #### Preview - 
 
 ![preview](./images/preview.png)
-![preview2](./images/preview2.png)
 
 -----
 
