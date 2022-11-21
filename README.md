@@ -56,9 +56,12 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 5] How can I contribute to this project?
 
 - Currently you can contribute to this project by submitting PR on [Github Repo](https://github.com/ItzzNeo13/Minimal-Theme) about -
-~ Reporting any improper syntax highlighting.
-~ Reporting unsupported languages.
-~ Any typos or mistakes in Markdown files.
+
+  1. Reporting any improper syntax highlighting.
+
+  2. Reporting unsupported languages.
+
+  3. Any typos or mistakes in Markdown files.
 
 -----
 
@@ -66,7 +69,7 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 
 -----
 
-If you face any problem while using this theme, make sure to let me know by creating a PR on GitHub or sending a mail on devneo13@gmail.com
+If you face any problem while using this theme, make sure to let me know by reporting an issue or sending a mail on devneo13@gmail.com
 
 Thanks for using my theme and have a great time ahead!! :D 
 
