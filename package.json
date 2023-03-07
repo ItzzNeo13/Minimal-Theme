@@ -11,7 +11,7 @@
         "url": "https://github.com/ItzzNeo13/Minimal-Theme"
     },
     "bugs": {
-        "email": "devneo13@gmail.com"
+        "email": "itzzneo13@proton.me"
       },
     "keywords": [
         "theme",
@@ -23,7 +23,7 @@
         "vscode theme",
         "vscode dark theme"
     ],
-    "version": "1.0.6",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.66.0"
     },

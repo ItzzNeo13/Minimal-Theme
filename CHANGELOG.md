@@ -18,8 +18,12 @@ Last Update - v1.0.5 on 21st November 2022
 
 # [1.0.5]
 
-- Added Email tag in package.json. (Minor Update, nothing changed in theme)
+- Added Email in package.json. (Minor Update, nothing changed in theme)
 
 # [1.0.6]
 
 - Added new preview images & removed Gallery Color
+
+# [1.0.7]
+
+- Tweaked colors of Keywords, Strings, functions and a few changes in UI
