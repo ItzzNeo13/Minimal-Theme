@@ -24,16 +24,16 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 
 #### Theme Stats - 
 
-<img src="https://img.shields.io/visual-studio-marketplace/i/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Installs">
+<img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ItzzNeo1305.minimal-theme?color=blue&label=Theme%20Installs&logo=Visual-studio-code&style=for-the-badge" alt="Installs">
 
-<img src="https://img.shields.io/visual-studio-marketplace/v/ItzzNeo1305.minimal-theme?color=green&style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/visual-studio-marketplace/v/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Version">
 
-<img src="https://img.shields.io/visual-studio-marketplace/r/ItzzNeo1305.minimal-theme?color=green&style=for-the-badge" alt="Ratings">
+<img src="https://img.shields.io/visual-studio-marketplace/r/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Ratings">
 
+<img src="https://img.shields.io/visual-studio-marketplace/release-date/ItzzNeo1305.minimal-theme?color=blue&label=Theme%20Released&logo=Visual-studio-code&style=for-the-badge" alt="Release Date">
 
-<img src="https://img.shields.io/visual-studio-marketplace/release-date/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Release Date">
+<img src="https://img.shields.io/visual-studio-marketplace/last-updated/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Last Updated">
 
-<img src="https://img.shields.io/visual-studio-marketplace/last-updated/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Late Updated">
 
 
 -----
