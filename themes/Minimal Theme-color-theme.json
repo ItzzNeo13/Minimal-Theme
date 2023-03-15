@@ -1,7 +1,7 @@
 {
 	"name": "Minimal Theme",
 	"colors": {
-		//Main Editor colors
+		//Main Editor colors:
 		"editor.background": "#191919",
 		"editor.foreground": "#ffee93",
 		"editorLineNumber.foreground": "#EEEEEE",
@@ -9,15 +9,15 @@
 		"activityBarBadge.background": "#4B5D67",
 		"sideBarTitle.foreground": "#BCEAD5",
 
-		//Button Colors
+		//Button Colors:
 		"button.background": "#354F52",
 		"button.separator": "#52796F",
 		"button.hoverBackground": "#63886b",
 
-		//Minimap
+		//Minimap:
 		"minimap.background": "#191919",
 
-		//Other Components
+		//Other Components:
 		"descriptionForeground": "#b0c4b1",
 		"icon.foreground": "#A5C9CA",
 		"dropdown.background": "#353535",
@@ -28,7 +28,7 @@
 		"scrollbar.shadow": "#02202c",
 		"badge.background": "#3c73a7",
 
-		// File System & UI
+		// File System & UI:
 		"list.activeSelectionBackground": "#393E46",
 		"list.activeSelectionForeground": "#BCCEF8",
 		"activityBar.background": "#2B2B2B",
@@ -47,6 +47,8 @@
 		"titleBar.inactiveBackground": "#2C3333",
 		"editorLightBulb.foreground": "#edae49"
 	},
+
+	//Syntax Colors:
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -85,6 +87,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
+				"fontStyle": "strikethrough",
 				"foreground": "#fd5757"
 			}
 		},
@@ -412,7 +415,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#717568"
+				"foreground": "#ca986a"
 			}
 		},
 		{
@@ -509,6 +512,16 @@
 			}
 		},
 		{
+			"name": "Markup - Paragraphs",
+			"scope":[
+				"meta.paragraph.markdown",
+				"text.html.markdown"
+			],
+			"settings": {
+				"foreground": "#e6b986",
+			}
+		},
+		{
 			"name": "Markup - Italic",
 			"scope": [
 				"markup.italic"
@@ -526,7 +539,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#f7585f"
 			}
 		},
 		{
@@ -551,7 +564,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#ce6241"
 			}
 		},
 		{
@@ -653,7 +666,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#5b93be"
 			}
 		},
 		{
