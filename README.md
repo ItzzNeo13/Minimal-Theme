@@ -2,6 +2,8 @@
 
 This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax highlighting & colored brackets to match the overall theme look and dark background colors so that it's easier to focus on the code.
 
+Visit marketplace for installing the theme or use "Release" tab on GitHub to download the latest update in ".vsix" format.
+
 -----
 
 #### Preview - 
@@ -13,27 +15,27 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 #### Features -
 1] Use of warm color palatte.
 
-2] Suitable for use at night with low brightness.
+2] Clean and minimalist look.
 
-3] Clean look.
+3] Dark Background makes it comfortable to code for long durations.
 
-4] Dark Background so it's comfortable to code for long durations.
+4] Lightweight theme. No unnecessary codes to increase the json size.
 
 
 -----
 
 #### Theme Stats - 
 
-<img src="https://img.shields.io/visual-studio-marketplace/azure-devops/installs/total/ItzzNeo1305.minimal-theme?color=blue&label=Theme%20Installs&logo=Visual-studio-code&style=for-the-badge" alt="Installs">
+<img src="https://img.shields.io/visual-studio-marketplace/i/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Installs">
 
-<img src="https://img.shields.io/visual-studio-marketplace/v/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Version">
+<img src="https://img.shields.io/visual-studio-marketplace/v/ItzzNeo1305.minimal-theme?color=green&style=for-the-badge" alt="Version">
 
-<img src="https://img.shields.io/visual-studio-marketplace/r/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Ratings">
+<img src="https://img.shields.io/visual-studio-marketplace/r/ItzzNeo1305.minimal-theme?color=green&style=for-the-badge" alt="Ratings">
 
-<img src="https://img.shields.io/visual-studio-marketplace/release-date/ItzzNeo1305.minimal-theme?color=blue&label=Theme%20Released&logo=Visual-studio-code&style=for-the-badge" alt="Release Date">
 
-<img src="https://img.shields.io/visual-studio-marketplace/last-updated/ItzzNeo1305.minimal-theme?color=blue&logo=Visual-studio-code&style=for-the-badge" alt="Last Updated">
+<img src="https://img.shields.io/visual-studio-marketplace/release-date/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Release Date">
 
+<img src="https://img.shields.io/visual-studio-marketplace/last-updated/ItzzNeo1305.minimal-theme?style=for-the-badge" alt="Late Updated">
 
 
 -----
@@ -57,27 +59,23 @@ This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax 
 
 - Currently you can contribute to this project by submitting PR on [Github Repo](https://github.com/ItzzNeo13/Minimal-Theme) about -
 
-  1. Reporting any improper syntax highlighting.
+~ Reporting any improper syntax highlighting.
 
-  2. Reporting unsupported languages.
+~ Reporting unsupported languages.
 
-  3. Any typos or mistakes in Markdown files.
-
------
-
-##### NOTE - Some text in Markdown and .txt files have white text colors and is not any kind of improper syntax highlighting
+~ Any typos or mistakes in Markdown files.
 
 -----
 
-If you face any problem while using this theme, make sure to let me know by reporting an issue or sending a mail on devneo13@gmail.com
+If you face any problem while using this theme, make sure to let me know by creating a PR on GitHub or sending a mail on itzzneo13@proton.me
 
-Thanks for using my theme and have a great time ahead!! :D 
+Thank you for using my theme and have a great time coding!! :D 
 
 Regards,
-ItzzNeo13,
-Theme Designer.
+ItzzNeo13
 
 ----
-<a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
+
+<a href="https://github.com/ItzzNeo13" alt="Creator Tag"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000&logo=github"></a>
 
 ----
