@@ -2,7 +2,11 @@
 
 This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax highlighting & colored brackets to match the overall theme look and dark background colors so that it's easier to focus on the code.
 
+-----
+
 Visit marketplace for installing the theme or use "Release" tab on GitHub to download the latest update in ".vsix" format.
+
+Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install ItzzNeo1305.minimal-theme`
 
 -----
 
@@ -64,10 +68,6 @@ Visit marketplace for installing the theme or use "Release" tab on GitHub to dow
 ~ Reporting unsupported languages.
 
 ~ Any typos or mistakes in Markdown files.
-
------
-
-Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install ItzzNeo1305.minimal-theme`
 
 -----
 
