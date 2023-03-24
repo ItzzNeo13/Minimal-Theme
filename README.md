@@ -67,6 +67,10 @@ Visit marketplace for installing the theme or use "Release" tab on GitHub to dow
 
 -----
 
+Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install ItzzNeo1305.minimal-theme`
+
+-----
+
 If you face any problem while using this theme, make sure to let me know by creating a PR on GitHub or sending a mail on itzzneo13@proton.me
 
 Thank you for using my theme and have a great time coding!! :D 
