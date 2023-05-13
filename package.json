@@ -15,15 +15,14 @@
       },
     "keywords": [
         "theme",
+        "minimal",
+        "vscode theme",
         "dark theme",
         "minimal theme",
-        "minimal",
         "visual studio code",
-        "vscode",
-        "vscode theme",
         "vscode dark theme"
     ],
-    "version": "1.0.7",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.66.0"
     },

@@ -2,22 +2,25 @@
 	"name": "Minimal Theme",
 	"colors": {
 		//Main Editor colors:
-		"editor.background": "#191919",
-		"editor.foreground": "#ffee93",
-		"editorLineNumber.foreground": "#EEEEEE",
-		"editorLineNumber.activeForeground": "#FAA307",
-		"activityBarBadge.background": "#4B5D67",
-		"sideBarTitle.foreground": "#BCEAD5",
+		"editor.background": "#121212",
+		"editor.foreground": "#d3d3d3",
+		"editorLineNumber.foreground": "#E2E8C0",
+		"editorLineNumber.activeForeground": "#FAC05E",
+		"activityBarBadge.background": "#778da9",
+		"sideBarTitle.foreground": "#e0e1dd",
 
 		//Button Colors:
-		"button.background": "#354F52",
-		"button.separator": "#52796F",
+		"button.background": "#1d3557",
+		"button.separator": "#457b9d",
 		"button.hoverBackground": "#63886b",
+		
 
 		//Minimap:
 		"minimap.background": "#191919",
 
 		//Other Components:
+		"input.placeholderForeground": "#a8dadc",
+		"inputOption.hoverBackground": "#0077b6",
 		"descriptionForeground": "#b0c4b1",
 		"icon.foreground": "#A5C9CA",
 		"dropdown.background": "#353535",
@@ -26,6 +29,7 @@
 		"scrollbarSlider.background": "#202020",
 		"scrollbarSlider.hoverBackground": "#333533",
 		"scrollbar.shadow": "#02202c",
+		"progressBar.background": "#3e5c76",
 		"badge.background": "#3c73a7",
 
 		// File System & UI:
@@ -45,7 +49,9 @@
 		"statusBar.background": "#241f1d",
 		"titleBar.activeBackground": "#393E46",
 		"titleBar.inactiveBackground": "#2C3333",
-		"editorLightBulb.foreground": "#edae49"
+		"editorLightBulb.foreground": "#edae49",
+		"profileBadge.background": "#2c7da0",
+		"welcomePage.background": "#ff0000"
 	},
 
 	//Syntax Colors:

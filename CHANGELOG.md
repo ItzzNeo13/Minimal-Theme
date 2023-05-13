@@ -2,7 +2,15 @@
 
 All notable changes to the "minimal-theme" extension will be documented in this file.
 
-### Last Update: [1.0.8]
+### Latest Update: [2.0]
+- Minor color changes only for the UI part. 
+- Updated Readme text.
+
+Theme Developement is paused on this update, check readme file for more info.
+
+
+- - - - 
+### [1.0.8]:
 
 - Changed the colors of JSON value, markdown paragraph and added strikethrough for invalid characters.
 

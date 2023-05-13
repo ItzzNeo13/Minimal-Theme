@@ -1,12 +1,8 @@
 #### Minimal Theme!
 
-This is a Minimal and Dark Theme for VS Code with warm color pallete for syntax highlighting & colored brackets to match the overall theme look and dark background colors so that it's easier to focus on the code.
+Minimal Theme project for VS Code is a theme that strikes a perfect balance between warm and cool colors. The theme has been carefully crafted to complement the overall look and feel of your workspace, with its dark background colors creating the perfect environment for you to focus on your code.
 
------
-
-Visit marketplace for installing the theme or use "Release" tab on GitHub to download the latest update in ".vsix" format.
-
-Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install ItzzNeo1305.minimal-theme`
+To get your hands on this theme, head over to the marketplace and install it in just a few clicks. Alternatively, if you prefer to download it manually, simply visit the "Release" tab on GitHub to access the latest update in ".vsix" format. So why wait? Upgrade your VS Code experience today with this stunning new Dark Theme!
 
 -----
 
@@ -17,15 +13,15 @@ Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install It
 -----
 
 #### Features -
-1] Use of warm color palatte.
 
-2] Clean and minimalist look.
-
-3] Dark Background makes it comfortable to code for long durations.
-
-4] Lightweight theme. No unnecessary codes to increase the json size.
-
-
+- Clean and minimalistic design for reduced distractions while coding.
+- Carefully chosen warm and cool colors that match the overall theme look.
+- Dark background colors that help reduce eye strain and improve focus.
+- Designed to work seamlessly with VS Code's built-in features and extensions.
+- Compatible with multiple operating systems, including Windows, MacOS, and Linux.
+- Lightweight and fast, ensuring smooth performance even on lower-end machines
+- Easy installation and setup process, with support for both marketplace and manual downloads
+- Free to use and open-source, with no hidden costs or fees.
 -----
 
 #### Theme Stats - 
@@ -44,39 +40,36 @@ Install theme via Command Line (Ctrl + P) in Visual Studio Code: `ext install It
 
 -----
 
-#### Troubleshooting & FAQ-
+#### Common troubleshooting and FAQ-
 
-1] Theme is not loading in my VS Code client, how can I fix this?
-- Restart VS Code
-- Try reinstalling theme
+Q] What should I do if the theme is not loading in my VS Code client?
+A] First, try restarting VS Code. If that doesn't work, try reinstalling the theme.
 
-2] I cannot see the theme in my extensions tab, what should i do? 
-- Wait for a while. Sometimes extensions and themes take time to load. This can be because of various factors such as running background process on your PC/laptop, PC/Laptop Specs, etc.
+Q] Why can't I see the theme in my extensions tab?
+A] Sometimes extensions and themes can take a while to load, depending on various factors such as your device specs and background processes. Please wait for a while and check again later.
 
-3] Is any kind of paywall involved in the theme?
-- No. No paywall such as premium or tiers are involved in Minimal Theme and is free to use for everyone.
+Q] Is there any paywall for this theme?
+A] No, there are no paywalls or tiers involved in the Minimal Theme. It is completely free to use for everyone. However, if you want to support me, a BuyMeACoffee link will be added soon.
 
-4] Is this theme suitable for all devices?
-- The theme is light in resource consumption and should probably run as expected on all devices.
+Q] Is the theme suitable for all devices?
+A] Yes, the Minimal Theme is designed to be light on resource consumption and should run smoothly on all desktops and laptops.
 
-5] How can I contribute to this project?
+Q] How can I contribute to this project?
+A] I have decided to make this theme as a part of my learning process so currently I am interested in managing everything by myself, however bug reports and PRs will be considered. 
 
-- Currently you can contribute to this project by submitting PR on [Github Repo](https://github.com/ItzzNeo13/Minimal-Theme) about -
+- - - - 
 
-~ Reporting any improper syntax highlighting.
+##### Development Update:
+Please be advised that development on the v2.0 version of the theme has been paused. The current version is mostly complete and can be used without any issues. Should there be any major changes to the UI or other significant updates required, I will consider releasing a new update in the future. Additionally, I may consider adding new colors or other features if there is demand for them. Thank you for your continued support!
 
-~ Reporting unsupported languages.
-
-~ Any typos or mistakes in Markdown files.
-
------
+- - - -
 
 If you face any problem while using this theme, make sure to let me know by creating a PR on GitHub or sending a mail on itzzneo13@proton.me
 
 Thank you for using my theme and have a great time coding!! :D 
 
 Regards,
-ItzzNeo13
+ItzzNeo13.
 
 ----
 
