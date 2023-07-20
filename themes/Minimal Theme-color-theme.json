@@ -2,17 +2,17 @@
 	"name": "Minimal Theme",
 	"colors": {
 		//Main Editor colors:
-		"editor.background": "#121212",
-		"editor.foreground": "#d3d3d3",
-		"editorLineNumber.foreground": "#E2E8C0",
-		"editorLineNumber.activeForeground": "#FAC05E",
+		"editor.background": "#141414",
+		"editor.foreground": "#dfdbdb",
+		"editorLineNumber.foreground": "#e9edc9",
+		"editorLineNumber.activeForeground": "#fcbf49",
 		"activityBarBadge.background": "#778da9",
 		"sideBarTitle.foreground": "#e0e1dd",
 
 		//Button Colors:
 		"button.background": "#1d3557",
 		"button.separator": "#457b9d",
-		"button.hoverBackground": "#63886b",
+		"button.hoverBackground": "#0077b6",
 		
 
 		//Minimap:
@@ -51,7 +51,7 @@
 		"titleBar.inactiveBackground": "#2C3333",
 		"editorLightBulb.foreground": "#edae49",
 		"profileBadge.background": "#2c7da0",
-		"welcomePage.background": "#ff0000"
+		"welcomePage.background": "#264653"
 	},
 
 	//Syntax Colors:
@@ -63,7 +63,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "italic",
 				"foreground": "#80868d"
 			}
 		},

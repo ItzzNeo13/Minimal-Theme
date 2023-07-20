@@ -2,14 +2,18 @@
 
 All notable changes to the "minimal-theme" extension will be documented in this file.
 
-### Latest Update: [2.0]
-- Minor color changes only for the UI part. 
-- Updated Readme text.
+### Latest Update: [2.0.1]
+- Minor Color tweaks to fix the red welcome screen.
 
-Theme Developement is paused on this update, check readme file for more info.
+Active Theme Developement is paused on this update, check readme file for more info.
 
 
 - - - - 
+
+### [2.0]
+- Minor color changes only for the UI part. 
+- Updated Readme text.
+
 ### [1.0.8]:
 
 - Changed the colors of JSON value, markdown paragraph and added strikethrough for invalid characters.

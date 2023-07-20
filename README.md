@@ -60,7 +60,7 @@ A] I have decided to make this theme as a part of my learning process so current
 - - - - 
 
 ##### Development Update:
-Please be advised that development on the v2.0 version of the theme has been paused. The current version is mostly complete and can be used without any issues. Should there be any major changes to the UI or other significant updates required, I will consider releasing a new update in the future. Additionally, I may consider adding new colors or other features if there is demand for them. Thank you for your continued support!
+Please be advised that active development from the v2.0 of the theme has been paused. The current version is mostly complete and can be used without any issues. Should there be any major changes to the UI or other significant updates required, I will consider releasing a new update in the future. Additionally, I may consider adding new colors or other features if there is demand for them. Thank you for your continued support!
 
 - - - -
 
