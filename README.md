@@ -5,6 +5,13 @@ Minimal Theme project for VS Code is a theme that strikes a perfect balance betw
 To get your hands on this theme, head over to the marketplace and install it in just a few clicks. Alternatively, if you prefer to download it manually, simply visit the "Release" tab on GitHub to access the latest update in ".vsix" format. So why wait? Upgrade your VS Code experience today with this stunning new Dark Theme!
 
 -----
+Download verification Signatures: (If downloading the extension from here):
+
+MD5: `439ecdaf49d23fdec87a2090b83c53d2`
+
+SHA256: `d296d8da14bf656cf139ffffea69bfad46cf3041f6ae59f063016d9a737aa18d`
+
+-----
 
 #### Preview - 
 
