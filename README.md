@@ -1,3 +1,5 @@
+### PROJECT IS NO LONGER BEING MAINTAINED
+
 #### Minimal Theme!
 
 Minimal Theme project for VS Code is a theme that strikes a perfect balance between warm and cool colors. The theme has been carefully crafted to complement the overall look and feel of your workspace, with its dark background colors creating the perfect environment for you to focus on your code.
@@ -71,9 +73,7 @@ Please be advised that active development from the v2.0 of the theme has been pa
 
 - - - -
 
-If you face any problem while using this theme, make sure to let me know by creating a PR on GitHub or sending a mail on itzzneo13@proton.me
-
-Thank you for using my theme and have a great time coding!! :D 
+If you still want to keep using it, feel free to do so. But no updates or fixes will be released to resolve any issues. The project is officially depreciated.
 
 Regards,
 ItzzNeo13.
